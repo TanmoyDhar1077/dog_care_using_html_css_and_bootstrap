@@ -84,6 +84,9 @@ body{
     border-radius: 0;
     background-color: #fcc302;
     border: none;
+    color: #fff;
+    font-size: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .header_section .form-control::placeholder{
@@ -95,6 +98,7 @@ body{
     border: none;
     border-radius: 0;
     background-color: #00bec9;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 /* Hero Section */
@@ -227,3 +231,42 @@ body{
     border-radius: 0 !important;
 }
 
+/* Footer Section */
+
+.footer_section{
+    background-color: #343434;
+    padding: 90px 0px;
+}
+
+.footer_section .color_2{
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.footer_section .color_1{
+    color: #ffffff;
+    font-size: 37.5px;
+    font-weight: 600;
+}
+
+.footer_section .form-control{
+    border-radius: 0;
+    background-color: #fcc302;
+    border: none;
+    padding: 20px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.footer_section .form-control::placeholder{
+    color: #fff;
+    font-size: 20px;
+}
+
+.footer_section .btn-outline-success{
+    border: none;
+    border-radius: 0;
+    background-color: #00bec9;
+    padding: 15px 30px;
+}
