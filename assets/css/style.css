@@ -1,0 +1,229 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Common CSS */
+.color_2{
+    color: #ffffff;
+    font-size: 33.33px;
+    font-weight: 400;
+}
+
+.color_3{
+    font-weight: 600;
+    font-size: 50px;
+    color: #313243;
+}
+
+.color_4{
+    color: #313243;
+    font-weight: 400;
+    font-size: 29.17px;
+}
+
+.color_5{
+    color: #fff;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.color_6{
+    color: #fff;
+    font-weight: 600;
+    font-size: 37.5px;
+}
+
+.color_7{
+    color: #fff;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.color_8{
+    color: #313243;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.color_9{
+    color: #313243;
+    font-weight: 700;
+    font-size: 29.17px;
+}
+
+.color_10{
+    color: #313243; 
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.button_3{
+    background-color: #fcc302;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    color: #ffffff;
+}
+/* Navbar Section */
+
+.header_section{
+    background-color: #daac00;
+}
+
+.header_section .navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #fff;
+    font-size: 29.17px;
+    font-weight: 500;
+}
+
+.header_section .form-control{
+    border-radius: 0;
+    background-color: #fcc302;
+    border: none;
+}
+
+.header_section .form-control::placeholder{
+    color: #fff;
+    font-size: 20px;
+}
+
+.header_section .btn-outline-success{
+    border: none;
+    border-radius: 0;
+    background-color: #00bec9;
+}
+
+/* Hero Section */
+
+.hero_section{
+    background-color: #fcc302;
+    padding: 90px 0px;
+}
+
+.hero_section .color_1{
+    color: #ffffff;
+    font-size: 66.67px;
+    font-weight: 600;
+}
+
+.hero_section .color_2{
+    color: #ffffff;
+    font-size: 27.17px;
+    font-weight: 400;
+}
+
+.hero_section .button_1{
+    background-color: #00bec9;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    color: #ffffff;
+}
+
+.hero_section .button_2{
+    background-color: #fcc302;
+    border-radius: 5px;
+    border: 2px solid #ffffff;
+    padding: 10px 20px;
+    color: #ffffff;
+}
+
+/* Animal Lover Section */
+
+.animal_lover_section{
+    padding: 90px 0px;
+}
+
+/* Service Section */
+
+.service_section{
+    padding: 90px 0px;
+    background-color: #fcc302;
+}
+
+/* Veccination Section */
+
+.veccination_section{
+    padding: 90px 0px;
+}
+
+/* Price Section */
+
+.price_section{
+    padding: 90px 0px;
+    background-color: #fcc302;
+}
+
+.price_section .button_1{
+    background-color: #00bec9;
+    border-radius: 25px;
+    border: none;
+    padding: 10px 20px;
+    color: #ffffff;
+}
+
+/* Team Section */
+
+.team_section{
+    padding: 90px 0px;
+}
+
+/* Serve Section */
+
+.serve_section {
+    padding: 90px 0px;
+    background-image: url(../img/bg-img.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.serve_section .color_1 {
+    color: #ffffff;
+    font-size: 41.67px;
+    font-weight: 500;
+}
+
+.serve_section .color_2 {
+    color: #ffffff;
+    font-size: 37.5px;
+    font-weight: 700;
+}
+
+/* Post Section */
+
+.post_section{
+    padding: 90px 0px;
+}
+
+.post_section .color_1{
+    color: #313243;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.post_section .color_12{
+    color: #00bec9;
+}
+
+.post_section .color_13 {
+    color: #00bec9;
+    font-weight: 500;
+    font-size: 20.83px;
+}
+
+.post_section .color_14 {
+    color: #313243;
+    font-weight: 400;
+    font-size: 16.67px;
+}
+
+.post_section .card {
+    border: none !important;
+    border-radius: 0 !important;
+}
+
