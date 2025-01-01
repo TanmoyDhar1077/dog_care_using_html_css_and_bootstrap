@@ -1,0 +1,7 @@
+@media screen and (max-width: 575px) {
+    .hero_section .color_1{
+        
+        font-size: 50px;
+        font-weight: 600;
+    }
+}

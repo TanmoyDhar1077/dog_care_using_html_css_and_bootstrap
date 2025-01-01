@@ -136,6 +136,14 @@ body{
     color: #ffffff;
 }
 
+.hero_section .animation img{
+    transition:0.4s;
+}
+
+.hero_section .animation img:hover{
+    transform: scale(1.1);
+}
+
 /* Animal Lover Section */
 
 .animal_lover_section{
